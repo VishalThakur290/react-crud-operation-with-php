@@ -1,3 +1,14 @@
+body{
+  text-align: center;
+  background-color: #282c34;
+}
+.closeBtn:hover {
+  cursor: pointer;
+}
+.read table,tr,td,td{
+  border:2px solid #fff;
+  border-collapse: collapse;
+}
 .App {
   text-align: center;
 }
